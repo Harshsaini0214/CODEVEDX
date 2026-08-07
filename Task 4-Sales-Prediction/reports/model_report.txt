@@ -1,0 +1,33 @@
+============================================================
+SALES PREDICTION - MODEL TRAINING REPORT
+============================================================
+Generated: 2026-08-07 16:41:27
+Dataset rows used for training: 200
+Rows removed during cleaning: 0
+
+------------------------------------------------------------
+MODEL COMPARISON
+------------------------------------------------------------
+
+Linear Regression
+   MAE       : 1.2748
+   MSE       : 2.9078
+   RMSE      : 1.7052
+   R2 Score  : 0.9059
+
+Decision Tree Regressor
+   MAE       : 1.24
+   MSE       : 3.402
+   RMSE      : 1.8445
+   R2 Score  : 0.8899
+
+Random Forest Regressor <-- BEST MODEL
+   MAE       : 0.9133
+   MSE       : 1.3986
+   RMSE      : 1.1826
+   R2 Score  : 0.9547
+
+------------------------------------------------------------
+Selected Model: Random Forest Regressor
+Selection Criteria: Highest R2 Score
+------------------------------------------------------------

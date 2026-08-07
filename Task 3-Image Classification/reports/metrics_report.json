@@ -1,0 +1,48 @@
+{
+  "timestamp": "2026-08-07T16:33:27.243618",
+  "best_model": "Random Forest",
+  "metrics": [
+    {
+      "Model": "Random Forest",
+      "Accuracy": 0.9667,
+      "Precision": 0.9697,
+      "Recall": 0.9667,
+      "F1 Score": 0.9666
+    },
+    {
+      "Model": "SVM",
+      "Accuracy": 0.9667,
+      "Precision": 0.9697,
+      "Recall": 0.9667,
+      "F1 Score": 0.9666
+    },
+    {
+      "Model": "Gradient Boosting",
+      "Accuracy": 0.9667,
+      "Precision": 0.9697,
+      "Recall": 0.9667,
+      "F1 Score": 0.9666
+    },
+    {
+      "Model": "Logistic Regression",
+      "Accuracy": 0.9333,
+      "Precision": 0.9333,
+      "Recall": 0.9333,
+      "F1 Score": 0.9333
+    },
+    {
+      "Model": "Decision Tree",
+      "Accuracy": 0.9333,
+      "Precision": 0.9333,
+      "Recall": 0.9333,
+      "F1 Score": 0.9333
+    },
+    {
+      "Model": "K-Nearest Neighbors",
+      "Accuracy": 0.9333,
+      "Precision": 0.9444,
+      "Recall": 0.9333,
+      "F1 Score": 0.9327
+    }
+  ]
+}
