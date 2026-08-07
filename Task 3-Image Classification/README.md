@@ -74,3 +74,9 @@ python predict.py --interactive
 - **📊 Analysis tab** — Pair plots, violin plots, correlation heatmap, class distribution
 - **🤖 Model Evaluation tab** — Model comparison, confusion matrix, ROC curves, feature importance
 - **📋 Dataset tab** — Filtered view of the raw data with download
+
+## 👤 Author
+
+**Harsh Saini** 
+**Data Science Intern**
+*Built with ❤️ using Python & Streamlit*
