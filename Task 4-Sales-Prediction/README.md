@@ -258,7 +258,7 @@ git clone https://github.com/yourusername/Sales-Prediction.git
 cd Sales-Prediction
 ```
 
-## Create Virtual Environment
+## Create Virtual Environment (If required)
 
 ```bash
 python -m venv venv
