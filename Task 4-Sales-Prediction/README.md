@@ -399,9 +399,9 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 **Harsh Saini**
 
-🎓 BCA (Artificial Intelligence & Machine Learning)
+**🎓 BCA (Artificial Intelligence & Machine Learning)**
 
-💻 Machine Learning • Data Science • Python
+**💻 Machine Learning • Data Science • Python**
 
 ---
 
