@@ -1,4 +1,4 @@
-## 🚀 CODEVEDX Machine Learning Internship
+## 🚀 CODEVEDX Data Science Internship
 
 <p a="center">
   <img src="https://img.shields.io/badge/Python-3.14+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -11,9 +11,9 @@
 
 # 📖 About
 
-Welcome to my **CODEVEDX Machine Learning Internship Repository**.
+Welcome to my **CODEVEDX Data Science Internship Repository**.
 
-This repository contains all the tasks completed during my internship. Each project demonstrates the practical implementation of Machine Learning concepts including data preprocessing, feature engineering, model development, evaluation, and prediction using Python.
+This repository contains all the tasks completed during my internship. Each project demonstrates the practical implementation of Data Science and Machine Learning concepts including data preprocessing, feature engineering, model development, evaluation, and prediction using Python.
 
 Every task is maintained in its own folder with all the necessary source code, datasets, trained models, and documentation.
 
@@ -80,24 +80,102 @@ Build a Machine Learning model capable of predicting whether a passenger survive
 
 ## 🎬 Task 3 — Iris Flower Classification
 
-### Objective
+A Machine Learning project that classifies Iris flowers into different species using the famous Iris dataset. The model predicts the flower species based on four physical characteristics using supervised learning algorithms.
 
-Develop an image classification model that can accurately identify and categorize images into predefined classes using machine learning and computer vision techniques.
+---
 
-### Key Features
+## 📌 Project Overview
 
-- Image Data Preprocessing
-- Image Resizing & Normalization
-- Data Augmentation
-- Feature Extraction
-- Image Classification Model
-- Prediction & Visualization
-- Model Evaluation
+The Iris Flower Classification project uses the **Iris dataset**, which contains measurements of iris flowers from three different species:
 
-**Algorithms Used**
+- Iris Setosa
+- Iris Versicolor
+- Iris Virginica
 
-- Convolutional Neural Network (CNN)
-- Transfer Learning (if applicable)
+The model learns patterns from the dataset and predicts the species of a flower based on its sepal and petal measurements.
+
+---
+
+## 🚀 Features
+
+- 📂 Uses the Iris dataset
+- 🧹 Data preprocessing
+- 📊 Data visualization
+- 🤖 Machine Learning model training
+- 📈 Model evaluation
+- 🌸 Predicts Iris flower species
+- 💻 User-friendly interface (if applicable)
+
+---
+
+## 📁 Dataset Information
+
+The dataset contains **150 flower samples** with the following features:
+
+- Sepal Length (cm)
+- Sepal Width (cm)
+- Petal Length (cm)
+- Petal Width (cm)
+
+### Target Classes
+
+- Setosa
+- Versicolor
+- Virginica
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+---
+
+## ⚙️ Project Workflow
+
+1. Load the Iris dataset
+2. Clean and preprocess the data
+3. Perform Exploratory Data Analysis (EDA)
+4. Split the dataset into training and testing sets
+5. Train the Machine Learning model
+6. Evaluate model performance
+7. Predict the species of new Iris flowers
+
+---
+
+## 📊 Model Performance
+
+The trained model is evaluated using standard classification metrics such as:
+
+- Accuracy Score
+- Confusion Matrix
+- Classification Report
+
+---
+
+## ▶️ How to Run
+
+```bash
+# Clone the repository
+git clone <repository-link>
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the project
+python app.py
+```
+
+---
+
+## 📜 License
+
+This project is created for educational and learning purposes.
 
 ---
 
