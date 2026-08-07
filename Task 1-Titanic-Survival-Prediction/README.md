@@ -23,7 +23,7 @@ This project is part of a **Data Science Internship (Task 1)**. It demonstrates 
 
 ## 🛠️ Tech Stack
 
-- **Python 3.8+**
+- **Python 3.12+**
 - **Streamlit** — Interactive web application framework
 - **Pandas** — Data manipulation and analysis
 - **Seaborn & Matplotlib** — Data visualization
