@@ -1,4 +1,4 @@
-\# 🚀 CODEVEDX Machine Learning Internship
+## 🚀 CODEVEDX Machine Learning Internship
 
 <p a="center">
   <img src="https://img.shields.io/badge/Python-3.14+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -7,9 +7,9 @@
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
 </p>
 
-\---
+---
 
-\# 📖 About
+# 📖 About
 
 Welcome to my \*\*CODEVEDX Machine Learning Internship Repository\*\*.
 
@@ -17,26 +17,26 @@ This repository contains all the tasks completed during my internship. Each proj
 
 Every task is maintained in its own folder with all the necessary source code, datasets, trained models, and documentation.
 
-\---
+---
 
-\# 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
-\- Python  
-\- Pandas  
-\- NumPy  
-\- Scikit-learn  
-\- Matplotlib  
-\- Plotly  
-\- Streamlit  
-\- Joblib  
-\- Jupyter Notebook  
-\- VS Code  
-\- Git  
-\- GitHub
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Matplotlib  
+- Plotly  
+- Streamlit  
+- Joblib  
+- Jupyter Notebook  
+- VS Code  
+- Git  
+- GitHub
 
-\---
+---
 
-\# 📂 Repository Structure
+# 📂 Repository Structure
 
 \`\`\`  
 CODEVEDX  
@@ -52,31 +52,31 @@ CODEVEDX
 
 Each task is completely independent and contains its own source code, datasets, trained model, requirements, and documentation.
 
-\---
+---
 
-\# 📌 Internship Tasks
+# 📌 Internship Tasks
 
-\#\# 🚢 Task 1 — Titanic Survival Prediction
+## 🚢 Task 1 — Titanic Survival Prediction
 
-\#\#\# Objective
+### Objective
 
 Build a Machine Learning model capable of predicting whether a passenger survived the Titanic disaster based on passenger information.
 
-\#\#\# Key Features
+### Key Features
 
-\- Data Cleaning  
-\- Exploratory Data Analysis  
-\- Feature Engineering  
-\- Model Training  
-\- Survival Prediction  
-\- Performance Evaluation
+- Data Cleaning  
+- Exploratory Data Analysis  
+- Feature Engineering  
+- Model Training  
+- Survival Prediction  
+- Performance Evaluation
 
-\*\*Algorithms Used\*\*
+**Algorithms Used**
 
-\- Logistic Regression  
-\- Random Forest (if applicable)
+- Logistic Regression  
+- Random Forest (if applicable)
 
-\---
+---
 
 ## 🎬 Task 3 — Image Classification
 
@@ -101,42 +101,42 @@ Develop an image classification model that can accurately identify and categoriz
 
 ---
 
-\#\# 📈 Task 4 — Sales Prediction
+## 📈 Task 4 — Sales Prediction
 
-\#\#\# Objective
+### Objective
 
 Predict product sales based on advertising expenditure across multiple marketing channels.
 
-\#\#\# Key Features
+### Key Features
 
-\- Data Visualization  
-\- Feature Selection  
-\- Regression Analysis  
-\- Sales Forecasting  
-\- Model Evaluation  
-\- Prediction System
+- Data Visualization  
+- Feature Selection  
+- Regression Analysis  
+- Sales Forecasting  
+- Model Evaluation  
+- Prediction System
 
-\*\*Algorithms Used\*\*
+**Algorithms Used**
 
-\- Linear Regression
+- Linear Regression
 
-\---
+---
 
-\# ⚙️ Getting Started
+# ⚙️ Getting Started
 
-\#\# Clone Repository
+## Clone Repository
 
-\`\`\`bash  
+```bash  
 git clone https://github.com/Harshsaini0214/CODEVEDX.git  
-cd\`\`\`
+cd```
 
 Navigate into the repository
 
-\`\`\`bash  
+```bash  
 cd CODEVEDX  
-\`\`\`
+```
 
-\---
+---
 
  ▶️ Running a Project
 
@@ -144,35 +144,35 @@ Open any project folder.
 
 Example
 
-\`\`\`bash  
-cd "Task 1 \- Titanic Survival Prediction"  
-\`\`\`
+```bash  
+cd "Task 1 - Titanic Survival Prediction"  
+```
 
 or
 
-\`\`\`bash  
-cd "Task 3 \- Image Classification"  
-\`\`\`
+```bash  
+cd "Task 3 - Image Classification"  
+```
 
 or
 
-\`\`\`bash  
-cd "Task 4 \- Sales Prediction"  
-\`\`\`
+```bash  
+cd "Task 4 - Sales Prediction"  
+```
 
 Install dependencies
 
-\`\`\`bash  
-pip install \-r requirements.txt  
-\`\`\`
+```bash  
+pip install -r requirements.txt  
+```
 
 Run the application or training script according to that project's documentation.
 
-\---
+---
 
  🔄 Machine Learning Workflow
 
-\`\`\`  
+```  
 Dataset  
    │  
    ▼  
@@ -192,27 +192,27 @@ Model Evaluation
    │  
    ▼  
 Prediction  
-\`\`\`
+```
 
-\---
+---
 
  🎯 Internship Learning Outcomes
 
 Throughout this internship I gained practical experience in:
 
-\- Machine Learning  
-\- Data Analysis  
-\- Data Visualization  
-\- Feature Engineering  
-\- Classification  
-\- Regression  
-\- Model Evaluation  
-\- Data Preprocessing  
-\- Python Programming  
-\- Git & GitHub Version Control  
-\- Building End-to-End ML Projects
+- Machine Learning  
+- Data Analysis  
+- Data Visualization  
+- Feature Engineering  
+- Classification  
+- Regression  
+- Model Evaluation  
+- Data Preprocessing  
+- Python Programming  
+- Git & GitHub Version Control  
+- Building End-to-End ML Projects
 
-\---
+---
 
 📈 Future Tasks
 
@@ -220,16 +220,16 @@ This repository is designed to grow throughout the internship.
 
 Future projects will be added in the following format:
 
-\`\`\`  
+```  
 CODEVEDX  
 │  
-├── Task 1 \- Titanic Survival Prediction  
-├── Task 3 \- Image Classification  
-├── Task 4 \- Sales Prediction  
+├── Task 1 - Titanic Survival Prediction  
+├── Task 3 - Image Classification  
+├── Task 4 - Sales Prediction  
 ├──  
-\`\`\`
+```
 
-\---
+---
 
  📚 Skills Demonstrated
 
@@ -255,33 +255,33 @@ CODEVEDX
 
 ✔ Problem Solving
 
-\---
+---
 
  🤝 Acknowledgement
 
-I would like to thank \*\*CODEVEDX\*\* for providing this internship opportunity, allowing me to strengthen my practical knowledge of Machine Learning through real-world projects.
+I would like to thank **CODEVEDX** for providing this internship opportunity, allowing me to strengthen my practical knowledge of Machine Learning through real-world projects.
 
-\---
+---
 
  👨‍💻 Author
 
-Harsh Saini
+**Harsh Saini**
 
-Bachelor of Computer Applications (Artificial Intelligence & Machine Learning)
+**Bachelor of Computer Applications (Artificial Intelligence & Machine Learning)**
 
-🔗 GitHub: \*\*https://github.com/Harshsaini0214\*\*
+🔗 GitHub: **https://github.com/Harshsaini0214**
 
-\---
+---
 
  ⭐ Support
 
 If you found this repository useful, consider giving it a ⭐ on GitHub.
 
-\---
+---
 
 <p a="center">
 
- Thank you for visiting my CODEVEDX Internship Repository\!
+ Thank you for visiting my CODEVEDX Internship Repository!
 
 Happy Coding 🚀
 
