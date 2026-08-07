@@ -265,7 +265,7 @@ I would like to thank **CODEVEDX** for providing this internship opportunity, al
 
  👨‍💻 Author
 
-**Harsh Saini**
+## Harsh Saini
 
 **Bachelor of Computer Applications (Artificial Intelligence & Machine Learning)**
 
