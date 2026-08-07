@@ -11,7 +11,7 @@
 
 # 📖 About
 
-Welcome to my \*\*CODEVEDX Machine Learning Internship Repository\*\*.
+Welcome to my **CODEVEDX Machine Learning Internship Repository**.
 
 This repository contains all the tasks completed during my internship. Each project demonstrates the practical implementation of Machine Learning concepts including data preprocessing, feature engineering, model development, evaluation, and prediction using Python.
 
@@ -43,7 +43,7 @@ CODEVEDX
 │  
 ├── Task 1 \- Titanic Survival Prediction  
 │  
-├── Task 3 \- Image Classification  
+├── Task 3 \- Iris Flower Classification  
 │  
 ├── Task 4 \- Sales Prediction  
 │  
@@ -78,7 +78,7 @@ Build a Machine Learning model capable of predicting whether a passenger survive
 
 ---
 
-## 🎬 Task 3 — Image Classification
+## 🎬 Task 3 — Iris Flower Classification
 
 ### Objective
 
@@ -151,7 +151,7 @@ cd "Task 1 - Titanic Survival Prediction"
 or
 
 ```bash  
-cd "Task 3 - Image Classification"  
+cd "Task 3 - Iris FLower Classification"  
 ```
 
 or
@@ -224,7 +224,7 @@ Future projects will be added in the following format:
 CODEVEDX  
 │  
 ├── Task 1 - Titanic Survival Prediction  
-├── Task 3 - Image Classification  
+├── Task 3 - Iris Flower Classification  
 ├── Task 4 - Sales Prediction  
 ├──  
 ```
