@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-14T13:35:51.351521",
+  "timestamp": "2026-08-17T18:46:00.631325",
   "best_model": "Random Forest",
   "metrics": [
     {
-      "Model": "Random Forest",
+      "Model": "SVM",
       "Accuracy": 0.9667,
       "Precision": 0.9697,
       "Recall": 0.9667,
       "F1 Score": 0.9666
     },
     {
-      "Model": "SVM",
+      "Model": "Random Forest",
       "Accuracy": 0.9667,
       "Precision": 0.9697,
       "Recall": 0.9667,
