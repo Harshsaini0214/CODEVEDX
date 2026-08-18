@@ -102,10 +102,6 @@ The app will open automatically in your browser at `http://localhost:8501`.
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots of the running app here (Dataset view, Visualization, Train Model result)._
-
 ---
 
 ## 🤝 Contributing
@@ -128,6 +124,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Harsh Saini** 
+## Harsh Saini
+**Bachelor of Computer Applications(Artificial Intelligence & Machine Learning)** 
 **Data Science Intern**
 *Built with ❤️ using Python & Streamlit*
