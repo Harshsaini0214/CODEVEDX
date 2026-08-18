@@ -47,11 +47,6 @@ python train_model.py --tune      # with GridSearchCV tuning
 streamlit run app.py
 ```
 
-### 4. Predict from CLI
-```bash
-python predict.py --sl 5.1 --sw 3.5 --pl 1.4 --pw 0.2
-python predict.py --interactive
-```
 
 ---
 
@@ -77,6 +72,8 @@ python predict.py --interactive
 
 ## 👤 Author
 
-**Harsh Saini** 
+## Harsh Saini
+
 **Data Science Intern**
+
 *Built with ❤️ using Python & Streamlit*
