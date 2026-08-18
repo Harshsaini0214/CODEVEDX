@@ -223,19 +223,19 @@ Open any project folder.
 Example
 
 ```bash  
-cd "Task 1 - Titanic Survival Prediction"  
+cd "Task 1-Titanic-Survival-Prediction"  
 ```
 
 or
 
 ```bash  
-cd "Task 3 - Iris FLower Classification"  
+cd "Task 3-Iris FLower Classification"  
 ```
 
 or
 
 ```bash  
-cd "Task 4 - Sales Prediction"  
+cd "Task 4-Sales-Prediction"  
 ```
 
 Install dependencies
@@ -301,9 +301,9 @@ Future projects will be added in the following format:
 ```  
 CODEVEDX  
 │  
-├── Task 1 - Titanic Survival Prediction  
-├── Task 3 - Iris Flower Classification  
-├── Task 4 - Sales Prediction  
+├── Task 1 -Titanic-Survival-Prediction  
+├── Task 3 -Iris Flower Classification  
+├── Task 4 -Sales-Prediction  
 ├──  
 ```
 
