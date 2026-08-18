@@ -254,8 +254,8 @@ Predicted Sales
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Sales-Prediction.git
-cd Sales-Prediction
+git clone https://github.com/yourusername/Task 4-Sales-Prediction.git
+cd Task 4-Sales-Prediction
 ```
 
 ## Create Virtual Environment (If required)
