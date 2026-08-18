@@ -243,6 +243,7 @@ Install dependencies
 ```bash  
 pip install -r requirements.txt  
 ```
+*Make sure to open a new terminal when you want to goto any other task*
 
 Run the application or training script according to that project's documentation.
 
