@@ -126,5 +126,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Harsh Saini
 **Bachelor of Computer Applications(Artificial Intelligence & Machine Learning)** 
+
 **Data Science Intern**
 *Built with ❤️ using Python & Streamlit*
