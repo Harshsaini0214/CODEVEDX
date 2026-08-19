@@ -41,11 +41,11 @@ Every task is maintained in its own folder with all the necessary source code, d
 \`\`\`  
 CODEVEDX  
 │  
-├── Task 1 \- Titanic Survival Prediction  
+├── Task 1 \- Titanic-Survival-Prediction  
 │  
 ├── Task 3 \- Iris Flower Classification  
 │  
-├── Task 4 \- Sales Prediction  
+├── Task 4 \- Sales-Prediction  
 │  
 └── README.md  
 \`\`\`
