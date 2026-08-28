@@ -1,4 +1,4 @@
-## 🚀 CODEVEDX Data Science Internship
+## 🚀 CodeVedX Data Science Internship
 
 <p a="center">
   <img src="https://img.shields.io/badge/Python-3.14+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -11,7 +11,7 @@
 
 # 📖 About
 
-Welcome to my **CODEVEDX Data Science Internship Repository**.
+Welcome to my **CodeVedX Data Science Internship Repository**.
 
 This repository contains all the tasks completed during my internship. Each project demonstrates the practical implementation of Data Science and Machine Learning concepts including data preprocessing, feature engineering, model development, evaluation, and prediction using Python.
 
@@ -19,7 +19,7 @@ Every task is maintained in its own folder with all the necessary source code, d
 
 ---
 
-# 🛠️ Technologies Used
+# 🛠️ Libraries/technologies Used
 
 - Python  
 - Pandas  
