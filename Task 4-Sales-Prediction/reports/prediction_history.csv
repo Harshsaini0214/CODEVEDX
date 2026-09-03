@@ -16,3 +16,4 @@ Timestamp,TV,Radio,Newspaper,Predicted_Sales,Model_Used
 2026-08-17 19:27:08,100.0,25.0,100.0,13.1335,Random Forest Regressor
 2026-08-18 08:56:12,150.0,25.0,30.0,14.634,Random Forest Regressor
 2026-09-03 09:12:46,200.0,102.0,30.0,23.0125,Random Forest Regressor
+2026-09-03 09:27:54,200.0,25.0,30.0,17.249,Random Forest Regressor
