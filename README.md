@@ -338,7 +338,7 @@ CODEVEDX
 
  🤝 Acknowledgement
 
-I would like to thank **CODEVEDX** for providing this internship opportunity, allowing me to strengthen my practical knowledge of Machine Learning through real-world projects.
+I would like to thank **CodeVedX** for providing this internship opportunity, allowing me to strengthen my practical knowledge of Machine Learning through real-world projects.
 
 ---
 
@@ -349,6 +349,7 @@ I would like to thank **CODEVEDX** for providing this internship opportunity, al
 **Bachelor of Computer Applications (Artificial Intelligence & Machine Learning)**
 
 🔗 GitHub: **https://github.com/Harshsaini0214**
+## Linkedin : **https://www.linkedin.com/in/harsh-saini-432bb032b/
 
 ---
 
