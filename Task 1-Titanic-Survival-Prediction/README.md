@@ -129,4 +129,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Data Science Intern**
 
-*Built with ❤️ using Python & Streamlit*
