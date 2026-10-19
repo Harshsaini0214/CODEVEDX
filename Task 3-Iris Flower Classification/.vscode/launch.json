@@ -1,0 +1,34 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "🌸 Run Streamlit App",
+            "type": "python",
+            "request": "launch",
+            "module": "streamlit",
+            "args": ["run", "${workspaceFolder}/app.py"],
+            "python": "C:\\Program Files\\Python314\\python.exe",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "🚀 Train Models",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/train_model.py",
+            "python": "C:\\Program Files\\Python314\\python.exe",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "🔍 Predict (Interactive)",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/predict.py",
+            "args": ["--interactive"],
+            "python": "C:\\Program Files\\Python314\\python.exe",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}

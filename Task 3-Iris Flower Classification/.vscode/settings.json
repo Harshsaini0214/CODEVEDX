@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "C:\\Program Files\\Python314\\python.exe",
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python.terminal.activateEnvironment": true,
+    "terminal.integrated.env.windows": {
+        "PYTHONPATH": "${workspaceFolder}"
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    }
+}
